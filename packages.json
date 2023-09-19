@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "esp32x",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "maintainer": "DaoNguyen207",
+      "websiteURL": "http://iot47.com/",
+      "email": "daonguyen20798@gmail.com",
       "help": {
-        "online": "http://esp32.com"
+        "online": "http://iot47.com"
       },
       "platforms": [
         {
