@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "esp32x",
-      "maintainer": "DaoNguyen207",
+      "maintainer": "DaoNguyen",
       "websiteURL": "http://iot47.com/",
       "email": "daonguyen20798@gmail.com",
       "help": {
