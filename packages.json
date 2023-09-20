@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "esp32_iot47_ppp",
+      "name": "esp32_ppp",
       "maintainer": "DaoNguyen",
       "websiteURL": "http://iot47.com/",
       "email": "daonguyen20798@gmail.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "ESP32 4G PPP",
+          "name": "ESP32 PPP",
           "architecture": "esp32",
           "version": "2.0.13",
           "category": "ESP32",
