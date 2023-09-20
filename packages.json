@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "2.0.13",
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.13/esp32-2.0.13.zip",
-          "archiveFileName": "esp32-2.0.13.zip",
-          "checksum": "SHA-256:ee4c277bac0eecb7ca8853780da9d49b4e260926059cf6a9f9bac1923059de0c",
-          "size": "250665913",
+          "url": "https://github.com/daonguyen207/ESP32_IOT47_PPP/releases/download/v2.0.5/esp32-2.0.5.zip",
+          "archiveFileName": "esp32-2.0.5.zip",
+          "checksum": "SHA-256:73f6bb1c874893ec9ea64135c190a935befd7f4f26b1dd72d3d7dc84d07a22fa",
+          "size": "90702465",
           "help": {
             "online": "" 
           },
