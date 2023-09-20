@@ -19,7 +19,7 @@
           "checksum": "SHA-256:ee4c277bac0eecb7ca8853780da9d49b4e260926059cf6a9f9bac1923059de0c",
           "size": "250665913",
           "help": {
-            "online": ""
+            "online": "" 
           },
           "boards": [
             {
