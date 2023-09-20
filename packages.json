@@ -12,7 +12,7 @@
         {
           "name": "ESP32 PPP",
           "architecture": "esp32",
-          "version": "2.0.13",
+          "version": "2.0.5",
           "category": "ESP32",
           "url": "https://github.com/daonguyen207/ESP32_IOT47_PPP/releases/download/v2.0.5/esp32-2.0.5.zip",
           "archiveFileName": "esp32-2.0.5.zip",
